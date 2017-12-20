@@ -1,7 +1,7 @@
-## Your Name Goes Here
+## Francy Lang
 
-* email: user@email.com
-* slack: @username
+* email: francy.lang@gmail.com
+* slack: @francylang
 
 * [Portfolio](https://www.turing.io/alumni/your-portfolio)
 * [JobTrack](https://jobtrack.io/a/account/job-seekers/your-id-here/show)
